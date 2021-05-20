@@ -1,0 +1,62 @@
+
+    {
+    "result":[
+        {
+        "image":"https://res.cloudinary.com/poojayadav/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1620847708/pizza1_yqx4it.jpg",
+        "name":"pizza",
+        "subItemsData": {
+            "name":"Tasty Pizzas",
+            "subItems": [
+                {
+                    "name":"Tomato Basil Italian Pizza",
+                    "image":"https://res.cloudinary.com/poojayadav/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1620854026/Cheese-and-Tomato_kc2s7w.jpg",
+                    "price":"450",
+                    "description":"Dressed with oil,the origanum and garlic cloves shredded minutely .Fresh tomato sauce with Parmesan cheese,jalapeno peppers,red peppers."
+                },
+                {
+                    "name":"Bombay Pizza",
+                    "image":"https://res.cloudinary.com/poojayadav/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1620854296/Pizza_MG_0016_1_600x_k6tpc6.webp",
+                    "price":"550",
+                    "description":"Spicy tomato sauce with italian herbs, mushrooms,onion,cottage cheese,coriander and mozzaelta."
+                },
+                {
+                    "name":"Sicilia Pizza",
+                    "image":"https://res.cloudinary.com/poojayadav/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1620854026/Cheese-and-Tomato_kc2s7w.jpg",
+                    "price":"450",
+                    "description":"Dressed with oil,the origanum and garlic cloves shredded minutely .Fresh tomato sauce with Parmesan cheese,jalapeno peppers,red peppers."
+
+                }
+
+            ]
+        }
+        },
+        {
+            "image":"https://res.cloudinary.com/poojayadav/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1620848034/burger1_px2rpi.jpg",
+            "name":"burger",
+            "subItemsData":{
+                "name":"Crispy Burgers",
+                "subItems":[
+                   {
+                       "name":"Fried Chicken Burger",
+                       "image":"https://res.cloudinary.com/poojayadav/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1620854561/Butchies-2-1_xkn9ef.jpg",
+                       "price":"450",
+                       "description":"Old school chicken burger"
+                   },
+                   {
+                    "name":"Paneer Tikka Burger",
+                    "image":"https://res.cloudinary.com/poojayadav/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1620854561/Butchies-2-1_xkn9ef.jpg",
+                    "price":"450",
+                    "description":"Spicy Paneer,Onion,Tomato,Mozerella cheese"
+                },
+                {
+                    "name":"Chicken Classic Cheese Burger",
+                    "image":"https://res.cloudinary.com/poojayadav/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1620854713/62333823_juxfkb.webp",
+                    "price":"550",
+                    "description":"Aged cheddar,Sweet Pickle, tomato,red onion"
+                }
+
+                ]
+            }
+        }
+    ]
+}
